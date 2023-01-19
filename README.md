@@ -13,71 +13,50 @@
 		<div class="left">
 			<div class="image">
 				<img src=
-"https://media.geeksforgeeks.org/wp-content/uploads/20220202083519/gfglogo.png"
-					alt="gfg-logo"
+"https://blogger.googleusercontent.com/img/a/AVvXsEgMk7ne_FOMuHI7Bjrw5A9egj3766aRWIb7kBIjmaUqW8758W27L1y9E2GBbxh9dBqAMhdlOpXN15zQunmsfuo_3K6UU4Z_fQAyXgOKfFhJXVIFXM86QIvhfsBr0Lr2NrcrCwQB_FGAhjOfIj_gwpSqGdIGBukGmoVYBXhTgXm6q7BdK370eu8V2E.png"
 					style="width:100px;height:100px;">
 			</div>
 			<div class="Contact">
 				<h2>Contact</h2>
-				<p><b>Email id:</b>yoonghao0221@gmail.com</p>
-				<p><b>Mobile no :</b>011-55086283</p>
+				<p><b>Email id : </b>yoonghao0221@gmail.com</p>
+				<p><b>Mobile no : </b>011-55086283</p>
 			</div>
 			<div class="Skills">
 				<h2>Skills</h2>
 				<ul>
-					<li><b>Programming Languages :
-					Python, Java, C++</b></li>
-					<li><b>Frontend : HTML5, CSS3,
-					JavaScript, React</b></li>
-					<li><b>Backend : Node.js</b></li>
+					<li><b>Microsoft Excel, Word, Power Point</b></li>
+					<li><b>Google Analytics Skills</b></li>
+					<li><b>Effective Time Management</b></li>
 				</ul>
 			</div>
 			<div class="Language">
 				<h2>Language</h2>
 				<ul>
+					<li>Malay</li>
 					<li>English</li>
-					<li>Hindi</li>
+					<li>Mandarin</li>
 				</ul>
 			</div>
 			<div class="Hobbies">
 				<h2>Hobbies</h2>
 				<ul>
-					<li>Playing cricket</li>
-					<li>Swimming</li>
+					<li>Reading</li>
+					<li>Cooking</li>
+					<li>Badminton</li>
 				</ul>
-			</div>
-		</div>
-		<div class="right">
-			<div class="name">
-				<h1>GeeksforGeeks</h1>
-			</div>
-			<div class="title">
-				<p>Web Developer</p>
 			</div>
 			<div class="Summary">
 				<h2>Summary</h2>
-				<p>To secure a challenging position in a
-				reputable organization
-					to expand my learning knowledge and skill
+				<p>I would like to have an opportunity to work in your company where I can apply my skills and knowledge to help the company to solve
+problems. I am eager, dedicated, and committed to becoming a dependable and reliable team member in the company. Hopefully to obtain a great working experience to improve myself.
 				</p>
 			</div>
 			<div class="Experience">
-				<h2>Experience</h2>
-				<h3>Abc webdev pvt ltd - Senior Web Developer</h3>
-				<p>January 2022 to Present</p>
-				<ul>
-					<li>Actively engaged in web creative
-					design and development.</li>
-					<li>Designing project & planning</li>
-				</ul>
-				<h3>Xyz webdev pvt ltd - junior web developer</h3>
-				<p>August 2021 to December 2021</p>
-				<ul>
-					<li>Actively engaged in web creative
-					design and development.</li>
-					<li>Designing project & planning</li>
-					<li>Working on designing</li>
-				</ul>
+				<h2>Work Experience</h2>
+				<h3>Spritzer Pop – Sales Promoter</h3>
+				<p>June 2020 – June 2022</p>
+				<h3>Spritzer Pop - Sales Promoter</h3>
+				<p>December 2016 – January 2017</p>
 			</div>
 			<div class="Education">
 				<h2>Education</h2>
@@ -88,30 +67,11 @@
 						<th>percentage/cgpa</th>
 					</tr>
 					<tr>
-						<td>xyz</td>
-						<td>2020</td>
-						<td>8.9</td>
-					</tr>
-					<tr>
-						<td>pqr</td>
-						<td>2018</td>
-						<td>89%</td>
+						<td>STPM</td>
+						<td>2022</td>
+						<td>4.0</td>
 					</tr>
 				</table>
-			</div>
-			<div class="project">
-				<ul>
-					<li>
-						<h2>Project1</h2>
-						<p>This project is based on html
-						& used React</p>
-					</li>
-					<li>
-						<h2>Project2</h2>
-						<p>This project is based on html
-						& used React</p>
-					</li>
-				</ul>
 			</div>
 		</div>
 	</div>
