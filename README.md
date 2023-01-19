@@ -19,8 +19,8 @@
 			</div>
 			<div class="Contact">
 				<h2>Contact</h2>
-				<p><b>Email id:</b>xyz@gmail.com</p>
-				<p><b>Mobile no :</b>1234567890</p>
+				<p><b>Email id:</b>yoonghao0221@gmail.com</p>
+				<p><b>Mobile no :</b>011-55086283</p>
 			</div>
 			<div class="Skills">
 				<h2>Skills</h2>
