@@ -12,8 +12,8 @@
 	<div class="full">
 		<div class="left">
 			<div class="image">
-				<img src=
-"https://blogger.googleusercontent.com/img/a/AVvXsEgMk7ne_FOMuHI7Bjrw5A9egj3766aRWIb7kBIjmaUqW8758W27L1y9E2GBbxh9dBqAMhdlOpXN15zQunmsfuo_3K6UU4Z_fQAyXgOKfFhJXVIFXM86QIvhfsBr0Lr2NrcrCwQB_FGAhjOfIj_gwpSqGdIGBukGmoVYBXhTgXm6q7BdK370eu8V2E.png"
+				<img src= "https://www.blogger.com/u/0/blog/post/edit/preview/2806128451830802635/4392993215571852152.png"
+				alt="yoonghao_image"
 					style="width:100px;height:100px;">
 			</div>
 			<div class="Contact">
