@@ -16,8 +16,10 @@
 				alt="yoonghao_image"
 					style="width:100px;height:100px;">
 			</div>
-			<div class="Contact">
-				<h2>Contact</h2>
+			<div class="Biodata">
+				<h2>Biodata</h2>
+				<p><b>Address : </b>No.288, TAMAN DESA PENARIKAN,
+72100 BAHAU, NEGERI SEMBILAN</p>
 				<p><b>Email id : </b>yoonghao0221@gmail.com</p>
 				<p><b>Mobile no : </b>011-55086283</p>
 			</div>
@@ -45,10 +47,13 @@
 					<li>Badminton</li>
 				</ul>
 			</div>
-			<div class="Summary">
-				<h2>Summary</h2>
-				<p>I would like to have an opportunity to work in your company where I can apply my skills and knowledge to help the company to solve
-problems. I am eager, dedicated, and committed to becoming a dependable and reliable team member in the company. Hopefully to obtain a great working experience to improve myself.
+			<div class="Achievement">
+				<h2>Achievement</h2>
+				<p>
+					<li>Presiden Kelab Bahasa Dan Kesusateraan Tingkatan 6</li>
+					<li>Pengerusi Projek Pertandingan E-Sport Mobile Legends Bang Bang</li>
+					<li>Timbalan Pengerusi Projek Pertandingan Tournament Futsal PS4</li>
+					<li>Setiausaha Projek Pertandingan Kuiz Sejarah Pengakap</li>
 				</p>
 			</div>
 			<div class="Experience">
@@ -57,21 +62,16 @@ problems. I am eager, dedicated, and committed to becoming a dependable and reli
 				<p>June 2020 – June 2022</p>
 				<h3>Spritzer Pop - Sales Promoter</h3>
 				<p>December 2016 – January 2017</p>
+				<p>SPM 3A 1B+ 3B</p>
 			</div>
-			<div class="Education">
-				<h2>Education</h2>
-				<table>
-					<tr>
-						<th>University/college </th>
-						<th>Passing year </th>
-						<th>percentage/cgpa</th>
-					</tr>
-					<tr>
-						<td>STPM</td>
-						<td>2022</td>
-						<td>4.0</td>
-					</tr>
-				</table>
+			<div class="Educational background">
+				<h2>Educational background</h2>
+				<h3>STPM - SMK Datuk Mansor, Bahau, Negeri Sembilan</h3>
+					<p>June 2020 – June 2022</p>
+					<p>CGPA 4.00</p>
+				<h4>SPM – SMK Datuk Mansor, Bahau, Negeri Sembilan</h4>
+				<p>January 2016 – December 2017</p>
+				<p>SPM 3A 1B+ 3B</p>
 			</div>
 		</div>
 	</div>
